@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-MIT-orange)](LICENSE)
 [![Mock Mode](https://img.shields.io/badge/Mock%20Mode-支持无Key体验-yellow)](#mock-模式)
 
-[在线 Demo](https://kemomi.github.io/GoldTo/) · [快速开始](#-快速开始) · [工作原理](#-工作原理) · [API 文档](#-api-文档)
+[在线 Demo](https://fbee3157.github.io/GoldTo/) · [快速开始](#-快速开始) · [工作原理](#-工作原理) · [API 文档](#-api-文档)
 
 </div>
 
